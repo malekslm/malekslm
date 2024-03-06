@@ -10,8 +10,7 @@
   </a>
   <a href="https://www.instagram.com/abdelmalek_slamani/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4305F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+ 
 </div>
 
 ###
@@ -20,7 +19,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7DD11&center=true&vCenter=true&width=527&lines=Software+Engineer.;Web+developer.;JavaScript.;Python+%7C+Django+.;AI+Enthusiast+." alt="Typing SVG" /></a>
 </div>
 
-- 👨‍💻 I'm a Software Engineer  with a strong foundation in web development using JS, python, django. 
+- 👨‍💻 I'm a software Developer  with a strong foundation in web development using JS, python, django. 
 
 
 
@@ -31,8 +30,6 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
-  <img width="12" />
   
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
   <img width="12" />
